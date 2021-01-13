@@ -1,7 +1,7 @@
 package sorting;
 
 import java.util.HashMap;
-
+//bubbleSort using two loops
 public class BubbleSort 
 {
 	public static void main(String[] args) 

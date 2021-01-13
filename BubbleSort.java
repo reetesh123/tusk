@@ -6,8 +6,7 @@ public class BubbleSort
 {
 	public static void main(String[] args) 
 	{
-		//HashMap<String, String> h = new HashMap<String, String>();
-		int a[] = {5,1,12,-5,16};
+		int a[] = {5,1,12,-5,16,11};
 		int k, temp = 0;
 		for(int m = 0; m < a.length; m++)
 		{
